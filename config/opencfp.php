@@ -4,7 +4,7 @@ return [
     'event_name' => 'PHPKonf',
 
     //Promo site URL (Not dotCFP!)
-    'event_site' => 'http://phpkonf.org/',
+    'event_site' => 'https://twitter.com/IstanbulPHP/',
 
     //Event Contact email
     'event_email' => 'mail@istanbulphp.org',
