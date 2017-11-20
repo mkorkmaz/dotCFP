@@ -74,7 +74,7 @@
                             {{ config('opencfp.event_name', 'OpenCFP') }} is committed to creating a conference that is
                             as inclusive as
                             possible.
-                            We want to showcase talent available around the U.S. and welcome international submissions
+                            We want to showcase talent available around the Turkey and welcome international submissions
                             as well.
                         </p>
                         <p>
