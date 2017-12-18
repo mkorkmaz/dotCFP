@@ -68,8 +68,8 @@
                     </div>
                     <div class="panel-body">
                         <ul class="list-unstyled">
-                            <li>Submissions were accepted until <strong>{{ (new DateTime(config('dotcfp.cfp_end_date')))->format('M d, Y') }}</strong></li>
-                            <li>Event is <strong>{{ (new DateTime(config('dotcfp.start_date')))->format('M d, Y') }}</strong></li>
+                            <li>Submissions will be accepted until <strong>{{ (new DateTime(config('dotcfp.cfp_end_date')))->format('M jS, Y') }}</strong></li>
+                            <li>Event will be on <strong>{{ (new DateTime(config('dotcfp.start_date')))->format('M jS, Y') }}</strong></li>
                         </ul>
                     </div>
                 </div>
